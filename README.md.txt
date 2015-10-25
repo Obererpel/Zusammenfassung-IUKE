@@ -1,0 +1,1 @@
+# IUKE-Prüfungsvorbereitung zu der Veranstaltung "Intelligente Umgebungen und kooperative Ensembles" Uni Rostock SommerSemester 2015
